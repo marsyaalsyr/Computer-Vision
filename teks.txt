@@ -1,0 +1,8 @@
+# 1. Menginstal OpenCV untuk mengakses kamera
+ pip install opencv-python
+
+# 2. Menginstal MediaPipe (AI pembuat tracking tubuh dari Google)
+ pip install mediapipe
+
+# 3. Menginstal PyAutoGUI (untuk menekan tombol keyboard otomatis)
+ pip install pyautogui
